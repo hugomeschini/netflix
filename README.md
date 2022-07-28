@@ -1,1 +1,3 @@
-# netflix
+# Netflix
+
+## general analysis
